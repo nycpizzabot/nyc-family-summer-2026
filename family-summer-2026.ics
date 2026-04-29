@@ -1,0 +1,260 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//NYC Family Summer 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NYC Family Summer 2026
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Family activities calendar for New York City, Summer 2026
+
+BEGIN:VEVENT
+UID:nyc-family-20260606-01@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260606T120000
+DTEND;TZID=America/New_York:20260606T180000
+SUMMARY:Central Park SummerStage Family Day
+DESCRIPTION:Free outdoor performances, concerts, and dance shows for all ages. Central Park, Rumsey Playfield.
+LOCATION:Rumsey Playfield, Central Park, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260607-02@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260607T100000
+DTEND;TZID=America/New_York:20260607T170000
+SUMMARY:Bronx Zoo Spring Celebration
+DESCRIPTION:Family wildlife exploration day with animal feedings, keeper talks, and kids' activities.
+LOCATION:Bronx Zoo, 2300 Southern Blvd, Bronx, NY 10460
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260613-03@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260613T100000
+DTEND;TZID=America/New_York:20260613T160000
+SUMMARY:Brooklyn Botanic Garden Cherry Blossom Festival
+DESCRIPTION:Spring blooms, family walks, hanami celebrations, food vendors.
+LOCATION:Brooklyn Botanic Garden, 990 Washington Ave, Brooklyn, NY 11225
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260620-04@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260620T100000
+DTEND;TZID=America/New_York:20260620T170000
+SUMMARY:Governor's Island Summer Season Opening
+DESCRIPTION:Free family ferry, zip line, art installations, playground, food trucks.
+LOCATION:Governors Island, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260621-05@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260621T140000
+DTEND;TZID=America/New_York:20260621T180000
+SUMMARY:Coney Island Mermaid Parade
+DESCRIPTION:Legendary artistic nautical parade with costumes, floats, and live music.
+LOCATION:Coney Island, Surf Ave, Brooklyn, NY 11224
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260627-06@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260627T090000
+DTEND;TZID=America/New_York:20260627T150000
+SUMMARY:Brooklyn Bridge Park Free Open Kayak
+DESCRIPTION:Free guided kayaking sessions for all skill levels. Registration required.
+LOCATION:Brooklyn Bridge Park, Pier 2, Brooklyn, NY 11201
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260628-07@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260628T193000
+DTEND;TZID=America/New_York:20260628T220000
+SUMMARY:Lincoln Center Midsummer Night's Dream
+DESCRIPTION:Free outdoor film screening on the David Geffen Hall lawn.
+LOCATION:Lincoln Center, 10 Lincoln Center Plaza, New York, NY 10023
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260701-08@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260701T203000
+DTEND;TZID=America/New_York:20260701T230000
+SUMMARY:Bryant Park Summer Film Festival Opening
+DESCRIPTION:Free classic and family movie screenings on the Great Lawn.
+LOCATION:Bryant Park, 5th Ave & 42nd St, New York, NY 10018
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260704-09@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260704T200000
+DTEND;TZID=America/New_York:20260704T220000
+SUMMARY:Macy's Fourth of July Fireworks
+DESCRIPTION:NYC's iconic fireworks display over the East River. Multiple viewing locations.
+LOCATION:East River, Manhattan, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260705-10@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260705T100000
+DTEND;TZID=America/New_York:20260705T160000
+SUMMARY:Prospect Park Zoo Family Day
+DESCRIPTION:Special zookeeper talks, animal enrichment activities, crafts for kids.
+LOCATION:Prospect Park Zoo, 450 Flatbush Ave, Brooklyn, NY 11225
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260711-11@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260711T140000
+DTEND;TZID=America/New_York:20260711T170000
+SUMMARY:Harlem Meer Performance Festival
+DESCRIPTION:Outdoor live music, dance, and theater in Central Park's Harlem Meer.
+LOCATION:Harlem Meer, Central Park, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260718-12@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260718T090000
+DTEND;TZID=America/New_York:20260718T170000
+SUMMARY:Brooklyn Bridge Park Free Open Swim
+DESCRIPTION:Free supervised open water swimming in the East River.
+LOCATION:Brooklyn Bridge Park, Pier 2, Brooklyn, NY 11201
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260719-13@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260719T100000
+DTEND;TZID=America/New_York:20260719T170000
+SUMMARY:Queens County Fair — Harvest Festival
+DESCRIPTION:Fair games, farm animals, live bluegrass, pie-eating contests.
+LOCATION:Queens County Farm Museum, 73-50 Little Neck Pkwy, Floral Park, NY 11004
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260725-14@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260725T110000
+DTEND;TZID=America/New_York:20260725T160000
+SUMMARY:NYC Pizza Challenge Festival
+DESCRIPTION:Family food festival celebrating NYC pizza. Samples, kids' activities, pizza-making demos.
+LOCATION:Queens, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260726-15@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260726T100000
+DTEND;TZID=America/New_York:20260726T160000
+SUMMARY:Bicycle Sunday — Car-Free Park Loop
+DESCRIPTION:Central Park's loop road closed to cars for cyclists, rollerbladers, and families.
+LOCATION:Central Park Loop, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260801-16@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260801T200000
+DTEND;TZID=America/New_York:20260801T220000
+SUMMARY:Shakespeare in the Park — Much Ado About Nothing
+DESCRIPTION:Free live theater. Distribution lottery required.
+LOCATION:Delacorte Theater, Central Park, New York, NY 10024
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260802-17@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260802T110000
+DTEND;TZID=America/New_York:20260802T160000
+SUMMARY:Red Hook Pool Family Swimming Day
+DESCRIPTION:Family swimming day, water games, DJ, free swim gear giveaway.
+LOCATION:Red Hook Pool, 767 Earl St, Brooklyn, NY 11231
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260808-18@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260808T110000
+DTEND;TZID=America/New_York:20260808T160000
+SUMMARY:Summer on the Hudson — Riverside Park
+DESCRIPTION:Outdoor circus, puppet shows, juggling, and family performances.
+LOCATION:Riverside Park, 79th–110th St, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260809-19@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260809T093000
+DTEND;TZID=America/New_York:20260809T163000
+SUMMARY:New York Aquarium Family Day
+DESCRIPTION:Family discount day, behind-the-scenes tours, penguin feedings.
+LOCATION:New York Aquarium, Surf Ave & W 8th St, Brooklyn, NY 11224
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260815-20@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260815T100000
+DTEND;TZID=America/New_York:20260815T140000
+SUMMARY:Hudson River Park Family Sail
+DESCRIPTION:Free community sail on the Hudson River aboard historic vessels. Registration required.
+LOCATION:Pier 84, Hudson River Park, Manhattan, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260816-21@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260816T190000
+DTEND;TZID=America/New_York:20260816T220000
+SUMMARY:Flushing Meadows Corona Park Summer Concert
+DESCRIPTION:Free outdoor concert series, family-friendly acts.
+LOCATION:Flushing Meadows Corona Park, Queens, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260822-22@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260822T170000
+DTEND;TZID=America/New_York:20260822T230000
+SUMMARY:Brooklyn Museum Target First Saturday
+DESCRIPTION:Free admission, live DJ, family art workshops, gallery tours.
+LOCATION:Brooklyn Museum, 200 Eastern Pkwy, Brooklyn, NY 11238
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260823-23@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260823T120000
+DTEND;TZID=America/New_York:20260823T180000
+SUMMARY:Governor's Island Claremont Fest
+DESCRIPTION:Live music, food vendors, lawn games, ferry included.
+LOCATION:Governors Island, New York, NY
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260829-24@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260829T110000
+DTEND;TZID=America/New_York:20260829T150000
+SUMMARY:Central Park Zoo Summer Celebration
+DESCRIPTION:Special animal celebrations, cake, face painting, keeper talks.
+LOCATION:Central Park Zoo, East 64th St, New York, NY 10065
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nyc-family-20260830-25@pizzaman.local
+DTSTAMP:20260428T233917Z
+DTSTART;TZID=America/New_York:20260830T100000
+DTEND;TZID=America/New_York:20260830T140000
+SUMMARY:Last Day of Summer — Beach Cleanup + BBQ
+DESCRIPTION:Family beach cleanup followed by free BBQ.
+LOCATION:Rockaway Beach, Queens, NY
+END:VEVENT
+
+END:VCALENDAR
