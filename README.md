@@ -1,61 +1,24 @@
 # NYC Family Summer 2026 Calendar
 
-Curated family activity events for New York City, Summer 2026.
+A practical data-formatting exercise: turn a hand-curated list of family activities into an `.ics` calendar file that a parent can import into Google Calendar, Apple Calendar, or Outlook.
 
-## Quick Start
+## What this explores
 
-1. **Download the ICS file** — `family-summer-2026.ics`
-2. **Import into any calendar** — Google Calendar, Apple Calendar, Outlook
-3. Done! All 25 events will load with times, locations, and descriptions.
+- Collecting event data in a human-editable Markdown file
+- Generating standards-based iCalendar output with Python
+- Making a one-time research project portable across calendar apps
+- Keeping source links visible so families can confirm details
 
-## What's Included
+The source list is in `EVENTS.md`; the generated file is `family-summer-2026.ics`.
 
-- **25 hand-curated events** across June, July, and August 2026
-- Mix of free and paid events
-- Age-appropriate for families
-- Location, time, and description for each event
-- Recurring weekly events (kayak sessions, car-free Sundays, etc.)
-
-## File Structure
-
-```
-nyc-family-summer-2026/
-├── EVENTS.md          # Raw event listings
-├── generate_ics.py    # Script to regenerate ICS from EVENTS.md
-├── family-summer-2026.ics   # Calendar file ready to import
-└── README.md
-```
-
-## Regenerate the Calendar
-
-If you add new events to EVENTS.md:
+## Regenerate the calendar
 
 ```bash
-cd ~/nyc-family-summer-2026
 python3 generate_ics.py
 ```
 
-## Import Instructions
+Then import `family-summer-2026.ics` into your calendar app. Dates and venue details can change, so check the organizer before heading out.
 
-### Google Calendar
-1. Go to [calendar.google.com](https://calendar.google.com)
-2. Settings → Import calendar → Upload `family-summer-2026.ics`
-3. Or: Add by URL (if hosted)
+## Why this is a learning exercise
 
-### Apple Calendar (iCal)
-1. File → Import → Select `family-summer-2026.ics`
-2. Choose which calendar to add to
-
-### Outlook
-1. File → Open Calendar → From File → Select ICS
-
-## Event Sources
-
-- nycgovparks.org — NYC Parks official events
-- publictheater.org — Shakespeare in the Park
-- coneyisland.com — Coney Island events
-- bronxzoo.com — Bronx Zoo
-- prospectparkzoo.com — Prospect Park Zoo
-- govisland.com — Governors Island
-- bryantpark.org — Bryant Park events
-- queensfarm.org — Queens County Farm
+The useful question here is not “can Python write an ICS file?” It is whether a simple data pipeline makes a seasonal plan easier to use than a long list of web pages.
